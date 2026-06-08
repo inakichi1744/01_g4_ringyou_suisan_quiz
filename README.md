@@ -1,1 +1,6 @@
-# ringyou_suisan_quiz
+# 林業・水産業クイズ
+
+中学受験サポート用のクイズアプリです。林業・水産業について、全20問（11月の演習から出題）を学べます。
+レベルアップや称号を集めながら、楽しく復習できます。
+
+▶ 遊ぶ: https://inakichi1744.github.io/ringyou_suisan_quiz/
